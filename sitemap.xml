@@ -3,16 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mnaglak.github.io/HugoTestingSite/</loc>
-    <lastmod>2021-05-21T13:14:14-04:00</lastmod>
+    <lastmod>2021-05-21T13:49:33-04:00</lastmod>
+  </url><url>
+    <loc>https://mnaglak.github.io/HugoTestingSite/posts/my-second-post/</loc>
+    <lastmod>2021-05-21T13:49:33-04:00</lastmod>
+  </url><url>
+    <loc>https://mnaglak.github.io/HugoTestingSite/posts/</loc>
+    <lastmod>2021-05-21T13:49:33-04:00</lastmod>
+  </url><url>
+    <loc>https://mnaglak.github.io/HugoTestingSite/tags/</loc>
+    <lastmod>2021-05-21T13:49:33-04:00</lastmod>
+  </url><url>
+    <loc>https://mnaglak.github.io/HugoTestingSite/tags/untagged/</loc>
+    <lastmod>2021-05-21T13:49:33-04:00</lastmod>
   </url><url>
     <loc>https://mnaglak.github.io/HugoTestingSite/posts/my-first-post/</loc>
     <lastmod>2021-05-21T13:14:14-04:00</lastmod>
   </url><url>
-    <loc>https://mnaglak.github.io/HugoTestingSite/posts/</loc>
-    <lastmod>2021-05-21T13:14:14-04:00</lastmod>
-  </url><url>
     <loc>https://mnaglak.github.io/HugoTestingSite/categories/</loc>
-  </url><url>
-    <loc>https://mnaglak.github.io/HugoTestingSite/tags/</loc>
   </url>
 </urlset>

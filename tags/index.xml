@@ -5,6 +5,16 @@
     <link>https://mnaglak.github.io/HugoTestingSite/tags/</link>
     <description>Recent content in Tags on Matt&#39;s Testing Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mnaglak.github.io/HugoTestingSite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 May 2021 13:49:33 -0400</lastBuildDate><atom:link href="https://mnaglak.github.io/HugoTestingSite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>https://mnaglak.github.io/HugoTestingSite/tags/untagged/</link>
+      <pubDate>Fri, 21 May 2021 13:49:33 -0400</pubDate>
+      
+      <guid>https://mnaglak.github.io/HugoTestingSite/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

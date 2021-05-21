@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Matt&#39;s Testing Site</title>
+    <link>https://mnaglak.github.io/HugoTestingSite/tags/untagged/</link>
+    <description>Recent content in untagged on Matt&#39;s Testing Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 May 2021 13:49:33 -0400</lastBuildDate><atom:link href="https://mnaglak.github.io/HugoTestingSite/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://mnaglak.github.io/HugoTestingSite/posts/my-second-post/</link>
+      <pubDate>Fri, 21 May 2021 13:49:33 -0400</pubDate>
+      
+      <guid>https://mnaglak.github.io/HugoTestingSite/posts/my-second-post/</guid>
+      <description>This is my second post, using the timeline theme on Hugo</description>
+    </item>
+    
+  </channel>
+</rss>
